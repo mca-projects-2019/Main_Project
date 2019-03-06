@@ -1,0 +1,7 @@
+23-02-2019
+Saturday
+
+* Done some sample programs in Python.
+* Searched Dataset.
+* Found a sample dataset from kaggle.
+* Downloaded dataset from kaggle.

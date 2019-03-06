@@ -1,0 +1,8 @@
+22-02-19
+Friday
+
+
+* Python installed.
+* Done some sample programs in Python.									
+* Joined in new group at github.
+	

@@ -1,0 +1,6 @@
+21-02-2019
+Thursday
+
+Learned basics of python
+ *Exception Handling
+ *File operations

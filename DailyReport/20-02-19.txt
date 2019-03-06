@@ -1,0 +1,6 @@
+20-02-019
+Wednesday
+
+*Learned Python Basics
+ *Variable
+ *loops
