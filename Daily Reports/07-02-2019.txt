@@ -1,0 +1,9 @@
+07-02-2019
+Thursday
+
+
+
+-> Browsed international journal about heart disease prediction 
+-> Found the paper "prediction of heart disease using data mining technique" by international journal of computer science and engineering(2018)
+-> Learned about the technique used.
+-> Created PPT.

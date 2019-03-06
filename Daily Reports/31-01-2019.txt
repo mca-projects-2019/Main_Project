@@ -1,0 +1,10 @@
+31-01-2019
+Thursday
+
+
+
+-> Visited IEEE Xplore
+-> Searched the field machine learning
+-> Browsed about real world problems and their solution using machine learning
+-> Found a problem "heart attack"
+-> Searched detail about that and found a topic " heart disease prediction using data mining"

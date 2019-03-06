@@ -1,0 +1,8 @@
+05-02-2019
+Tuesday
+
+
+
+-> Collected international journals about heart disease prediction
+-> Found "Analysis of heart disease prediction using datamining techniques" by international journal of advanced networking & application(2017)
+-> Learned about different techniques used in the journal paper
