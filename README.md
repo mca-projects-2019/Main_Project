@@ -1,3 +1,3 @@
 # Visual Secret Sharing 
 
-The aim ofthispaperisto maximize therange of the access control of visual secret sharing (VSS) schemes encrypting multiple images. First, the formulation of access structures for a single secret is generalized to that for multiple secrets. This generalization is maximal in the sense that the generalized formulation makes no restrictionson access structures;in particular, it includes the existing ones as special cases.
+The aim ofthispaperisto maximize therange of the access control of visual secret sharing (VSS) schemes encrypting multiple images. First, the formulation of access structures for a single secret is generalized to that for multiple secrets. This generalization is maximal in the sense that the generalized formulation makes no restrictionson access structures;in particular, it includes the existing ones as special cases. 
