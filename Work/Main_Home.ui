@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>404</width>
-    <height>318</height>
+    <width>800</width>
+    <height>600</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -17,14 +17,14 @@
    <widget class="QLabel" name="label">
     <property name="geometry">
      <rect>
-      <x>10</x>
-      <y>100</y>
-      <width>389</width>
-      <height>78</height>
+      <x>50</x>
+      <y>160</y>
+      <width>721</width>
+      <height>71</height>
      </rect>
     </property>
     <property name="text">
-     <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:36pt; font-weight:600;&quot;&gt;Heading&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+     <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:28pt; font-weight:600;&quot;&gt;MineMax&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
     </property>
    </widget>
   </widget>
@@ -33,71 +33,46 @@
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>404</width>
+     <width>800</width>
      <height>18</height>
     </rect>
    </property>
-   <widget class="QMenu" name="menufile">
+   <widget class="QMenu" name="menuFile">
     <property name="title">
-     <string>file</string>
+     <string>File</string>
     </property>
-    <addaction name="actionopen"/>
+    <addaction name="actionNew"/>
     <addaction name="actionOpen"/>
     <addaction name="actionSave"/>
     <addaction name="actionSave_As"/>
     <addaction name="actionExit"/>
    </widget>
-   <widget class="QMenu" name="menuEdit">
+   <widget class="QMenu" name="menuMongoDB">
     <property name="title">
-     <string>Edit</string>
+     <string>Storage</string>
     </property>
-    <addaction name="actionCopy"/>
-    <addaction name="actionRedo"/>
-    <addaction name="separator"/>
-    <addaction name="actionCopy_2"/>
-    <addaction name="actionCut"/>
-    <addaction name="actionPaste"/>
-    <addaction name="separator"/>
-    <addaction name="actionSelect_All"/>
-   </widget>
-   <widget class="QMenu" name="menuImport">
-    <property name="title">
-     <string>DB</string>
-    </property>
-    <addaction name="actionImport_DB"/>
-    <addaction name="actionView_DB"/>
-    <addaction name="actionUpdate_DB"/>
-    <addaction name="actionDelete_DB"/>
+    <addaction name="actionInsert"/>
+    <addaction name="actionRetrieve"/>
+    <addaction name="actionUpdate"/>
+    <addaction name="actionDelete"/>
    </widget>
    <widget class="QMenu" name="menuVisualization">
     <property name="title">
      <string>Visualization</string>
     </property>
-    <addaction name="actionScatter_Plot"/>
-    <addaction name="actionHistogram"/>
-    <addaction name="actionBox_Plot"/>
    </widget>
-   <widget class="QMenu" name="menuAnalysis">
+   <widget class="QMenu" name="menuAbout">
     <property name="title">
-     <string>Analysis</string>
+     <string>About</string>
     </property>
    </widget>
-   <widget class="QMenu" name="menuHelp">
-    <property name="title">
-     <string>Help</string>
-    </property>
-    <addaction name="actionGuide"/>
-    <addaction name="actionAbout_US"/>
-   </widget>
-   <addaction name="menufile"/>
-   <addaction name="menuEdit"/>
-   <addaction name="menuImport"/>
+   <addaction name="menuFile"/>
+   <addaction name="menuMongoDB"/>
    <addaction name="menuVisualization"/>
-   <addaction name="menuAnalysis"/>
-   <addaction name="menuHelp"/>
+   <addaction name="menuAbout"/>
   </widget>
   <widget class="QStatusBar" name="statusbar"/>
-  <action name="actionopen">
+  <action name="actionNew">
    <property name="text">
     <string>New</string>
    </property>
@@ -122,79 +97,24 @@
     <string>Exit</string>
    </property>
   </action>
-  <action name="actionCopy">
+  <action name="actionInsert">
    <property name="text">
-    <string>Undo</string>
+    <string>Insert File</string>
    </property>
   </action>
-  <action name="actionRedo">
+  <action name="actionRetrieve">
    <property name="text">
-    <string>Redo</string>
+    <string>Retrieve File</string>
    </property>
   </action>
-  <action name="actionCopy_2">
+  <action name="actionUpdate">
    <property name="text">
-    <string>Cut</string>
+    <string>Update File</string>
    </property>
   </action>
-  <action name="actionCut">
+  <action name="actionDelete">
    <property name="text">
-    <string>Copy</string>
-   </property>
-  </action>
-  <action name="actionPaste">
-   <property name="text">
-    <string>Paste</string>
-   </property>
-  </action>
-  <action name="actionSelect_All">
-   <property name="text">
-    <string>Select All</string>
-   </property>
-  </action>
-  <action name="actionImport_DB">
-   <property name="text">
-    <string>Import DB</string>
-   </property>
-  </action>
-  <action name="actionView_DB">
-   <property name="text">
-    <string>View DB</string>
-   </property>
-  </action>
-  <action name="actionUpdate_DB">
-   <property name="text">
-    <string>Update DB</string>
-   </property>
-  </action>
-  <action name="actionDelete_DB">
-   <property name="text">
-    <string>Delete DB</string>
-   </property>
-  </action>
-  <action name="actionScatter_Plot">
-   <property name="text">
-    <string>Scatter Plot</string>
-   </property>
-  </action>
-  <action name="actionHistogram">
-   <property name="text">
-    <string>Histogram</string>
-   </property>
-  </action>
-  <action name="actionBox_Plot">
-   <property name="text">
-    <string>Box Plot</string>
-   </property>
-  </action>
-  <action name="actionGuide">
-   <property name="text">
-    <string>Guide</string>
-   </property>
-  </action>
-  <action name="actionAbout_US">
-   <property name="text">
-    <string>About US</string>
+    <string>Delete File</string>
    </property>
   </action>
  </widget>
