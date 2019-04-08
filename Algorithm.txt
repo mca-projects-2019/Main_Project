@@ -1,0 +1,122 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package com.code;
+
+import java.nio.charset.StandardCharsets;
+import java.security.MessageDigest;
+
+/**
+ *
+ * @author HP
+ */
+public class NegativePassword {
+  public static  byte[] hashing(String ps)
+  {
+  try
+  {
+  MessageDigest digest = MessageDigest.getInstance("SHA-256");
+byte[] encodedhash = digest.digest(ps.getBytes(StandardCharsets.UTF_8));
+return encodedhash;
+  }catch(Exception e)
+  {
+      System.out.println(e);
+  return null;
+  }
+ 
+  }
+  private static String bytesToHex(byte[] hash) {
+    StringBuffer hexString = new StringBuffer();
+    for (int i = 0; i < hash.length; i++) {
+    String hex = Integer.toHexString(0xff & hash[i]);
+    if(hex.length() == 1) hexString.append('0');
+        hexString.append(hex);
+    }
+    return hexString.toString();
+}
+  public static String negpass(String ps)
+  {
+      String psq="";
+  return psq;
+  }
+  public static void main(String ar[])
+  {
+  
+  byte[]b=hashing("anushaka123");
+  String b1=bytesToHex(b);
+byte c[]=permutations(b);
+  System.out.println(c);
+  String by=getBinary(c);
+      String neg=getNe(by);
+      
+System.out.println(by);
+System.out.println(neg);
+
+  }
+  public static String getBinary(byte b[])
+  {
+      String by="";
+  for(int i=0;i<b.length;i++)
+  {
+  by=by+ Integer.toBinaryString(b[i])+"";
+  }
+  return by;
+  }
+  public static byte []permutations(byte[] b)
+  {
+  return reverse(b, 0, b.length-1);
+  }
+  private static void swap(byte[] elements, int i, int j) {
+        byte temp = elements[i];
+        elements[i] = elements[j];
+        elements[j] = temp;
+    }
+
+    /**
+     * Reverses the elements of an array (in place) from the start index to the end index 
+     */
+    private static byte[] reverse(byte[] array, int startIndex, int endIndex) {
+        int size = endIndex + 1 - startIndex;
+        int limit = startIndex + size / 2;
+        for (int i = startIndex; i < limit; i++) {
+            // swap(array, i, startIndex + (size - 1 - (i - startIndex)));
+            swap(array, i, 2 * startIndex + size - 1 - i);
+        }
+      return array;
+    }
+
+    private static String getNe(String by) {
+        int k=0;
+        String ps="";
+      for(int i=0;i<by.length();i++)
+      {
+         if(k<by.length())
+         {
+      String sub="";
+      ;
+      try
+      {
+      sub=by.substring(k,k+2);
+      }catch(Exception e)
+      {
+      
+      }
+      k=k+2;
+     
+      System.out.println(sub);
+      if(sub.equals("10")||sub.equals("11"))
+      {
+      ps+="*";
+      }
+      else    if(sub.equals("00"))
+      ps+="0";
+      else if(sub.equals("01"))
+          ps+="1";
+      }
+      }
+    return ps;
+    }
+   
+}
