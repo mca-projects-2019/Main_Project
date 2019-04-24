@@ -6,34 +6,33 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>800</width>
-    <height>600</height>
+    <width>530</width>
+    <height>266</height>
    </rect>
   </property>
   <property name="windowTitle">
-   <string>MainWindow</string>
+   <string>MineMax</string>
   </property>
-  <widget class="QWidget" name="centralwidget">
-   <widget class="QLabel" name="label">
-    <property name="geometry">
-     <rect>
-      <x>50</x>
-      <y>160</y>
-      <width>721</width>
-      <height>71</height>
-     </rect>
-    </property>
-    <property name="text">
-     <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:28pt; font-weight:600;&quot;&gt;MineMax&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
-    </property>
-   </widget>
-  </widget>
+  <property name="windowIcon">
+   <iconset resource="MM_Res.qrc">
+    <normaloff>:/Img/logo.png</normaloff>:/Img/logo.png</iconset>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background-image: url(:/Img/bg.jpg);</string>
+  </property>
+  <property name="iconSize">
+   <size>
+    <width>18</width>
+    <height>18</height>
+   </size>
+  </property>
+  <widget class="QWidget" name="centralwidget"/>
   <widget class="QMenuBar" name="menubar">
    <property name="geometry">
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>800</width>
+     <width>530</width>
      <height>18</height>
     </rect>
    </property>
@@ -60,6 +59,9 @@
     <property name="title">
      <string>Visualization</string>
     </property>
+    <addaction name="actionBox_Plot"/>
+    <addaction name="actionScatter_Plot"/>
+    <addaction name="actionHistogram"/>
    </widget>
    <widget class="QMenu" name="menuAbout">
     <property name="title">
@@ -117,7 +119,24 @@
     <string>Delete File</string>
    </property>
   </action>
+  <action name="actionBox_Plot">
+   <property name="text">
+    <string>Box Plot</string>
+   </property>
+  </action>
+  <action name="actionScatter_Plot">
+   <property name="text">
+    <string>Scatter Plot</string>
+   </property>
+  </action>
+  <action name="actionHistogram">
+   <property name="text">
+    <string>Histogram</string>
+   </property>
+  </action>
  </widget>
- <resources/>
+ <resources>
+  <include location="MM_Res.qrc"/>
+ </resources>
  <connections/>
 </ui>
