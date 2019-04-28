@@ -1,0 +1,308 @@
+G:\yuvatech 2014\Projects\ongoing\DigitalImageSharing\DigitalImageSharing\bin\Debug\DigitalImageSharing.exe
+G:\yuvatech 2014\Projects\ongoing\DigitalImageSharing\DigitalImageSharing\bin\Debug\DigitalImageSharing.pdb
+G:\yuvatech 2014\Projects\ongoing\DigitalImageSharing\DigitalImageSharing\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\yuvatech 2014\Projects\ongoing\DigitalImageSharing\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.Login.resources
+G:\yuvatech 2014\Projects\ongoing\DigitalImageSharing\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.Properties.Resources.resources
+G:\yuvatech 2014\Projects\ongoing\DigitalImageSharing\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.SenderAddOrginalImage.resources
+G:\yuvatech 2014\Projects\ongoing\DigitalImageSharing\DigitalImageSharing\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\yuvatech 2014\Projects\ongoing\DigitalImageSharing\DigitalImageSharing\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\yuvatech 2014\Projects\ongoing\DigitalImageSharing\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.exe
+G:\yuvatech 2014\Projects\ongoing\DigitalImageSharing\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.pdb
+G:\yuvatech 2014\Projects\ongoing\DigitalImageSharing\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.HistogramaDesenat.resources
+G:\yuvatech 2014\Projects\ongoing\DigitalImageSharing\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.SenderOrgImageBinarization.resources
+G:\yuvatech 2014\Projects\ongoing\DigitalImageSharing\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.SenderImageSharez.resources
+G:\yuvatech 2014\Projects\ongoing\DigitalImageSharing\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.SenderNaturalImageSelection.resources
+G:\yuvatech 2014\Projects\ongoing\DigitalImageSharing\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.SenderEmbeddingImage.resources
+G:\yuvatech 2014\Projects\ongoing\DigitalImageSharing\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.MainForm.resources
+G:\yuvatech 2014\Projects\ongoing\DigitalImageSharing\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.HomeSender.resources
+G:\yuvatech 2014\Projects\ongoing\DigitalImageSharing\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.ExtracterLoadImages.resources
+G:\yuvatech 2014\Projects\ongoing\DigitalImageSharing\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.ExtractorRetrieveShares.resources
+G:\yuvatech 2014\Projects\ongoing\DigitalImageSharing\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.Embedd.resources
+G:\yuvatech 2014\Projects\ongoing\DigitalImageSharing\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.ExtractorSecretImage.resources
+G:\yuvatech 2014\Projects\ongoing\DigitalImageSharing\basepaper\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.exe
+G:\yuvatech 2014\Projects\ongoing\DigitalImageSharing\basepaper\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.pdb
+G:\yuvatech 2014\Projects\ongoing\DigitalImageSharing\Enhancement\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.exe
+G:\yuvatech 2014\Projects\ongoing\DigitalImageSharing\Enhancement\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.pdb
+G:\yuvatech 2014\Projects\ongoing\DigitalImageSharing\Enhancement\DigitalImageSharing\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\yuvatech 2014\Projects\ongoing\DigitalImageSharing\Enhancement\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.Embedd.resources
+G:\yuvatech 2014\Projects\ongoing\DigitalImageSharing\Enhancement\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.ExtracterLoadImages.resources
+G:\yuvatech 2014\Projects\ongoing\DigitalImageSharing\Enhancement\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.ExtractorRetrieveShares.resources
+G:\yuvatech 2014\Projects\ongoing\DigitalImageSharing\Enhancement\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.ExtractorSecretImage.resources
+G:\yuvatech 2014\Projects\ongoing\DigitalImageSharing\Enhancement\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.HistogramaDesenat.resources
+G:\yuvatech 2014\Projects\ongoing\DigitalImageSharing\Enhancement\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.HomeSender.resources
+G:\yuvatech 2014\Projects\ongoing\DigitalImageSharing\Enhancement\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.Login.resources
+G:\yuvatech 2014\Projects\ongoing\DigitalImageSharing\Enhancement\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.MainForm.resources
+G:\yuvatech 2014\Projects\ongoing\DigitalImageSharing\Enhancement\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.Properties.Resources.resources
+G:\yuvatech 2014\Projects\ongoing\DigitalImageSharing\Enhancement\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.SenderAddOrginalImage.resources
+G:\yuvatech 2014\Projects\ongoing\DigitalImageSharing\Enhancement\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.SenderEmbeddingImage.resources
+G:\yuvatech 2014\Projects\ongoing\DigitalImageSharing\Enhancement\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.SenderImageDCT.resources
+G:\yuvatech 2014\Projects\ongoing\DigitalImageSharing\Enhancement\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.SenderImageSharez.resources
+G:\yuvatech 2014\Projects\ongoing\DigitalImageSharing\Enhancement\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.SenderNaturalImageSelection.resources
+G:\yuvatech 2014\Projects\ongoing\DigitalImageSharing\Enhancement\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.SenderOrgImageBinarization.resources
+G:\yuvatech 2014\Projects\ongoing\DigitalImageSharing\Enhancement\DigitalImageSharing\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\yuvatech 2014\Projects\ongoing\DigitalImageSharing\Enhancement\DigitalImageSharing\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\yuvatech 2014\Projects\ongoing\DigitalImageSharing\Enhancement\DigitalImageSharing\bin\Debug\DigitalImageSharing.exe
+G:\yuvatech 2014\Projects\ongoing\DigitalImageSharing\Enhancement\DigitalImageSharing\bin\Debug\DigitalImageSharing.pdb
+G:\yuvatech 2014\Projects\ongoing\DigitalImageSharing\Enhancement\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.ExtractorInverseDct.resources
+G:\yuvatech 2014\Projects\final\Cryptography\DigitalImageSharing\Enhancement\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.exe
+G:\yuvatech 2014\Projects\final\Cryptography\DigitalImageSharing\Enhancement\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.pdb
+G:\yuvatech 2014\Projects\final\Cryptography\DigitalImageSharing\Enhancement\DigitalImageSharing\bin\Debug\DigitalImageSharing.exe
+G:\yuvatech 2014\Projects\final\Cryptography\DigitalImageSharing\Enhancement\DigitalImageSharing\bin\Debug\DigitalImageSharing.pdb
+G:\yuvatech 2014\Projects\final\Cryptography\DigitalImageSharing\Enhancement\DigitalImageSharing\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\yuvatech 2014\Projects\final\Cryptography\DigitalImageSharing\Enhancement\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.Embedd.resources
+G:\yuvatech 2014\Projects\final\Cryptography\DigitalImageSharing\Enhancement\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.ExtracterLoadImages.resources
+G:\yuvatech 2014\Projects\final\Cryptography\DigitalImageSharing\Enhancement\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.ExtractorInverseDct.resources
+G:\yuvatech 2014\Projects\final\Cryptography\DigitalImageSharing\Enhancement\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.ExtractorRetrieveShares.resources
+G:\yuvatech 2014\Projects\final\Cryptography\DigitalImageSharing\Enhancement\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.ExtractorSecretImage.resources
+G:\yuvatech 2014\Projects\final\Cryptography\DigitalImageSharing\Enhancement\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.HistogramaDesenat.resources
+G:\yuvatech 2014\Projects\final\Cryptography\DigitalImageSharing\Enhancement\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.HomeSender.resources
+G:\yuvatech 2014\Projects\final\Cryptography\DigitalImageSharing\Enhancement\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.Login.resources
+G:\yuvatech 2014\Projects\final\Cryptography\DigitalImageSharing\Enhancement\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.MainForm.resources
+G:\yuvatech 2014\Projects\final\Cryptography\DigitalImageSharing\Enhancement\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.Properties.Resources.resources
+G:\yuvatech 2014\Projects\final\Cryptography\DigitalImageSharing\Enhancement\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.SenderAddOrginalImage.resources
+G:\yuvatech 2014\Projects\final\Cryptography\DigitalImageSharing\Enhancement\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.SenderEmbeddingImage.resources
+G:\yuvatech 2014\Projects\final\Cryptography\DigitalImageSharing\Enhancement\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.SenderImageDCT.resources
+G:\yuvatech 2014\Projects\final\Cryptography\DigitalImageSharing\Enhancement\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.SenderImageSharez.resources
+G:\yuvatech 2014\Projects\final\Cryptography\DigitalImageSharing\Enhancement\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.SenderNaturalImageSelection.resources
+G:\yuvatech 2014\Projects\final\Cryptography\DigitalImageSharing\Enhancement\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.SenderOrgImageBinarization.resources
+G:\yuvatech 2014\Projects\final\Cryptography\DigitalImageSharing\Enhancement\DigitalImageSharing\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\yuvatech 2014\Projects\final\Cryptography\DigitalImageSharing\Enhancement\DigitalImageSharing\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\YUVATECH 2015\PROJECT\AFTER MAY2015\JITHIN\MCA\DigitalImageSharing\Enhancement\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.exe
+E:\YUVATECH 2015\PROJECT\AFTER MAY2015\JITHIN\MCA\DigitalImageSharing\Enhancement\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.pdb
+E:\YUVATECH 2015\PROJECT\AFTER MAY2015\JITHIN\MCA\DigitalImageSharing\Enhancement\DigitalImageSharing\bin\Debug\DigitalImageSharing.exe
+E:\YUVATECH 2015\PROJECT\AFTER MAY2015\JITHIN\MCA\DigitalImageSharing\Enhancement\DigitalImageSharing\bin\Debug\DigitalImageSharing.pdb
+E:\YUVATECH 2015\PROJECT\AFTER MAY2015\JITHIN\MCA\DigitalImageSharing\Enhancement\DigitalImageSharing\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\YUVATECH 2015\PROJECT\AFTER MAY2015\JITHIN\MCA\DigitalImageSharing\Enhancement\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.Embedd.resources
+E:\YUVATECH 2015\PROJECT\AFTER MAY2015\JITHIN\MCA\DigitalImageSharing\Enhancement\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.ExtracterLoadImages.resources
+E:\YUVATECH 2015\PROJECT\AFTER MAY2015\JITHIN\MCA\DigitalImageSharing\Enhancement\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.ExtractorInverseDct.resources
+E:\YUVATECH 2015\PROJECT\AFTER MAY2015\JITHIN\MCA\DigitalImageSharing\Enhancement\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.ExtractorRetrieveShares.resources
+E:\YUVATECH 2015\PROJECT\AFTER MAY2015\JITHIN\MCA\DigitalImageSharing\Enhancement\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.ExtractorSecretImage.resources
+E:\YUVATECH 2015\PROJECT\AFTER MAY2015\JITHIN\MCA\DigitalImageSharing\Enhancement\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.HistogramaDesenat.resources
+E:\YUVATECH 2015\PROJECT\AFTER MAY2015\JITHIN\MCA\DigitalImageSharing\Enhancement\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.HomeSender.resources
+E:\YUVATECH 2015\PROJECT\AFTER MAY2015\JITHIN\MCA\DigitalImageSharing\Enhancement\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.Login.resources
+E:\YUVATECH 2015\PROJECT\AFTER MAY2015\JITHIN\MCA\DigitalImageSharing\Enhancement\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.MainForm.resources
+E:\YUVATECH 2015\PROJECT\AFTER MAY2015\JITHIN\MCA\DigitalImageSharing\Enhancement\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.Properties.Resources.resources
+E:\YUVATECH 2015\PROJECT\AFTER MAY2015\JITHIN\MCA\DigitalImageSharing\Enhancement\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.SenderAddOrginalImage.resources
+E:\YUVATECH 2015\PROJECT\AFTER MAY2015\JITHIN\MCA\DigitalImageSharing\Enhancement\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.SenderEmbeddingImage.resources
+E:\YUVATECH 2015\PROJECT\AFTER MAY2015\JITHIN\MCA\DigitalImageSharing\Enhancement\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.SenderImageDCT.resources
+E:\YUVATECH 2015\PROJECT\AFTER MAY2015\JITHIN\MCA\DigitalImageSharing\Enhancement\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.SenderImageSharez.resources
+E:\YUVATECH 2015\PROJECT\AFTER MAY2015\JITHIN\MCA\DigitalImageSharing\Enhancement\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.SenderNaturalImageSelection.resources
+E:\YUVATECH 2015\PROJECT\AFTER MAY2015\JITHIN\MCA\DigitalImageSharing\Enhancement\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.SenderOrgImageBinarization.resources
+E:\YUVATECH 2015\PROJECT\AFTER MAY2015\JITHIN\MCA\DigitalImageSharing\Enhancement\DigitalImageSharing\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\YUVATECH 2015\PROJECT\AFTER MAY2015\JITHIN\MCA\DigitalImageSharing\Enhancement\DigitalImageSharing\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\YUVATECH 2016\PROJECT STUDY\Tamil Nadu\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.exe
+E:\YUVATECH 2016\PROJECT STUDY\Tamil Nadu\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.pdb
+E:\YUVATECH 2016\PROJECT STUDY\Tamil Nadu\Digital image\DigitalImageSharing\bin\Debug\DigitalImageSharing.exe
+E:\YUVATECH 2016\PROJECT STUDY\Tamil Nadu\Digital image\DigitalImageSharing\bin\Debug\DigitalImageSharing.pdb
+E:\YUVATECH 2016\PROJECT STUDY\Tamil Nadu\Digital image\DigitalImageSharing\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\YUVATECH 2016\PROJECT STUDY\Tamil Nadu\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.Embedd.resources
+E:\YUVATECH 2016\PROJECT STUDY\Tamil Nadu\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.ExtracterLoadImages.resources
+E:\YUVATECH 2016\PROJECT STUDY\Tamil Nadu\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.ExtractorInverseDct.resources
+E:\YUVATECH 2016\PROJECT STUDY\Tamil Nadu\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.ExtractorRetrieveShares.resources
+E:\YUVATECH 2016\PROJECT STUDY\Tamil Nadu\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.ExtractorSecretImage.resources
+E:\YUVATECH 2016\PROJECT STUDY\Tamil Nadu\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.HistogramaDesenat.resources
+E:\YUVATECH 2016\PROJECT STUDY\Tamil Nadu\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.HomeSender.resources
+E:\YUVATECH 2016\PROJECT STUDY\Tamil Nadu\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.Login.resources
+E:\YUVATECH 2016\PROJECT STUDY\Tamil Nadu\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.MainForm.resources
+E:\YUVATECH 2016\PROJECT STUDY\Tamil Nadu\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.Properties.Resources.resources
+E:\YUVATECH 2016\PROJECT STUDY\Tamil Nadu\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.SenderAddOrginalImage.resources
+E:\YUVATECH 2016\PROJECT STUDY\Tamil Nadu\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.SenderEmbeddingImage.resources
+E:\YUVATECH 2016\PROJECT STUDY\Tamil Nadu\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.SenderImageDCT.resources
+E:\YUVATECH 2016\PROJECT STUDY\Tamil Nadu\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.SenderImageSharez.resources
+E:\YUVATECH 2016\PROJECT STUDY\Tamil Nadu\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.SenderNaturalImageSelection.resources
+E:\YUVATECH 2016\PROJECT STUDY\Tamil Nadu\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.SenderOrgImageBinarization.resources
+E:\YUVATECH 2016\PROJECT STUDY\Tamil Nadu\Digital image\DigitalImageSharing\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\YUVATECH 2016\PROJECT STUDY\Tamil Nadu\Digital image\DigitalImageSharing\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\YUVATECH 2016\PROJECT\ANOOP\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.exe
+E:\YUVATECH 2016\PROJECT\ANOOP\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.pdb
+E:\YUVATECH 2016\PROJECT\ANOOP\Digital image\DigitalImageSharing\bin\Debug\DigitalImageSharing.exe
+E:\YUVATECH 2016\PROJECT\ANOOP\Digital image\DigitalImageSharing\bin\Debug\DigitalImageSharing.pdb
+E:\YUVATECH 2016\PROJECT\ANOOP\Digital image\DigitalImageSharing\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\YUVATECH 2016\PROJECT\ANOOP\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.Embedd.resources
+E:\YUVATECH 2016\PROJECT\ANOOP\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.ExtracterLoadImages.resources
+E:\YUVATECH 2016\PROJECT\ANOOP\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.ExtractorInverseDct.resources
+E:\YUVATECH 2016\PROJECT\ANOOP\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.ExtractorRetrieveShares.resources
+E:\YUVATECH 2016\PROJECT\ANOOP\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.ExtractorSecretImage.resources
+E:\YUVATECH 2016\PROJECT\ANOOP\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.HistogramaDesenat.resources
+E:\YUVATECH 2016\PROJECT\ANOOP\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.HomeSender.resources
+E:\YUVATECH 2016\PROJECT\ANOOP\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.Login.resources
+E:\YUVATECH 2016\PROJECT\ANOOP\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.MainForm.resources
+E:\YUVATECH 2016\PROJECT\ANOOP\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.Properties.Resources.resources
+E:\YUVATECH 2016\PROJECT\ANOOP\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.SenderAddOrginalImage.resources
+E:\YUVATECH 2016\PROJECT\ANOOP\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.SenderEmbeddingImage.resources
+E:\YUVATECH 2016\PROJECT\ANOOP\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.SenderImageDCT.resources
+E:\YUVATECH 2016\PROJECT\ANOOP\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.SenderImageSharez.resources
+E:\YUVATECH 2016\PROJECT\ANOOP\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.SenderNaturalImageSelection.resources
+E:\YUVATECH 2016\PROJECT\ANOOP\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.SenderOrgImageBinarization.resources
+E:\YUVATECH 2016\PROJECT\ANOOP\Digital image\DigitalImageSharing\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\YUVATECH 2016\PROJECT\ANOOP\Digital image\DigitalImageSharing\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\YUVATECH 2016\PROJECT\ANOOP\DOTNET PROJECT\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.exe
+E:\YUVATECH 2016\PROJECT\ANOOP\DOTNET PROJECT\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.pdb
+E:\YUVATECH 2016\PROJECT\ANOOP\DOTNET PROJECT\Digital image\DigitalImageSharing\bin\Debug\DigitalImageSharing.exe
+E:\YUVATECH 2016\PROJECT\ANOOP\DOTNET PROJECT\Digital image\DigitalImageSharing\bin\Debug\DigitalImageSharing.pdb
+E:\YUVATECH 2016\PROJECT\ANOOP\DOTNET PROJECT\Digital image\DigitalImageSharing\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\YUVATECH 2016\PROJECT\ANOOP\DOTNET PROJECT\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.Embedd.resources
+E:\YUVATECH 2016\PROJECT\ANOOP\DOTNET PROJECT\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.ExtracterLoadImages.resources
+E:\YUVATECH 2016\PROJECT\ANOOP\DOTNET PROJECT\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.ExtractorInverseDct.resources
+E:\YUVATECH 2016\PROJECT\ANOOP\DOTNET PROJECT\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.ExtractorRetrieveShares.resources
+E:\YUVATECH 2016\PROJECT\ANOOP\DOTNET PROJECT\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.ExtractorSecretImage.resources
+E:\YUVATECH 2016\PROJECT\ANOOP\DOTNET PROJECT\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.HistogramaDesenat.resources
+E:\YUVATECH 2016\PROJECT\ANOOP\DOTNET PROJECT\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.HomeSender.resources
+E:\YUVATECH 2016\PROJECT\ANOOP\DOTNET PROJECT\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.Login.resources
+E:\YUVATECH 2016\PROJECT\ANOOP\DOTNET PROJECT\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.MainForm.resources
+E:\YUVATECH 2016\PROJECT\ANOOP\DOTNET PROJECT\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.Properties.Resources.resources
+E:\YUVATECH 2016\PROJECT\ANOOP\DOTNET PROJECT\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.SenderAddOrginalImage.resources
+E:\YUVATECH 2016\PROJECT\ANOOP\DOTNET PROJECT\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.SenderEmbeddingImage.resources
+E:\YUVATECH 2016\PROJECT\ANOOP\DOTNET PROJECT\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.SenderImageDCT.resources
+E:\YUVATECH 2016\PROJECT\ANOOP\DOTNET PROJECT\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.SenderImageSharez.resources
+E:\YUVATECH 2016\PROJECT\ANOOP\DOTNET PROJECT\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.SenderNaturalImageSelection.resources
+E:\YUVATECH 2016\PROJECT\ANOOP\DOTNET PROJECT\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.SenderOrgImageBinarization.resources
+E:\YUVATECH 2016\PROJECT\ANOOP\DOTNET PROJECT\Digital image\DigitalImageSharing\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\YUVATECH 2016\PROJECT\ANOOP\DOTNET PROJECT\Digital image\DigitalImageSharing\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\YUVATECH 2017\PROJECT\MARTHOMA\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.exe
+E:\YUVATECH 2017\PROJECT\MARTHOMA\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.pdb
+D:\Anoop\2017\Marthoma final\MARTHOMA\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.exe
+D:\Anoop\2017\Marthoma final\MARTHOMA\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.pdb
+D:\Anoop\2017\Marthoma final\MARTHOMA\Digital image\DigitalImageSharing\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Anoop\2017\Marthoma final\MARTHOMA\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.Embedd.resources
+D:\Anoop\2017\Marthoma final\MARTHOMA\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.ExtracterLoadImages.resources
+D:\Anoop\2017\Marthoma final\MARTHOMA\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.ExtractorInverseDct.resources
+D:\Anoop\2017\Marthoma final\MARTHOMA\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.ExtractorRetrieveShares.resources
+D:\Anoop\2017\Marthoma final\MARTHOMA\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.ExtractorSecretImage.resources
+D:\Anoop\2017\Marthoma final\MARTHOMA\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.Form1.resources
+D:\Anoop\2017\Marthoma final\MARTHOMA\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.HistogramaDesenat.resources
+D:\Anoop\2017\Marthoma final\MARTHOMA\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.HomeSender.resources
+D:\Anoop\2017\Marthoma final\MARTHOMA\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.Login.resources
+D:\Anoop\2017\Marthoma final\MARTHOMA\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.MainForm.resources
+D:\Anoop\2017\Marthoma final\MARTHOMA\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.Properties.Resources.resources
+D:\Anoop\2017\Marthoma final\MARTHOMA\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.SenderAddOrginalImage.resources
+D:\Anoop\2017\Marthoma final\MARTHOMA\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.SenderEmbeddingImage.resources
+D:\Anoop\2017\Marthoma final\MARTHOMA\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.SenderImageDCT.resources
+D:\Anoop\2017\Marthoma final\MARTHOMA\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.SenderImageSharez.resources
+D:\Anoop\2017\Marthoma final\MARTHOMA\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.SenderNaturalImageSelection.resources
+D:\Anoop\2017\Marthoma final\MARTHOMA\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.SenderOrgImageBinarization.resources
+D:\Anoop\2017\Marthoma final\MARTHOMA\Digital image\DigitalImageSharing\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Anoop\2017\Marthoma final\MARTHOMA\Digital image\DigitalImageSharing\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Anoop\2017\Marthoma final\MARTHOMA\Digital image\DigitalImageSharing\bin\Debug\DigitalImageSharing.exe
+D:\Anoop\2017\Marthoma final\MARTHOMA\Digital image\DigitalImageSharing\bin\Debug\DigitalImageSharing.pdb
+E:\YUVATECH 2017\PROJECT\MARTHOMA\Digital image\DigitalImageSharing\bin\Debug\DigitalImageSharing.exe
+E:\YUVATECH 2017\PROJECT\MARTHOMA\Digital image\DigitalImageSharing\bin\Debug\DigitalImageSharing.pdb
+E:\YUVATECH 2017\PROJECT\MARTHOMA\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.Embedd.resources
+E:\YUVATECH 2017\PROJECT\MARTHOMA\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.ExtracterLoadImages.resources
+E:\YUVATECH 2017\PROJECT\MARTHOMA\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.ExtractorInverseDct.resources
+E:\YUVATECH 2017\PROJECT\MARTHOMA\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.ExtractorRetrieveShares.resources
+E:\YUVATECH 2017\PROJECT\MARTHOMA\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.ExtractorSecretImage.resources
+E:\YUVATECH 2017\PROJECT\MARTHOMA\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.Form1.resources
+E:\YUVATECH 2017\PROJECT\MARTHOMA\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.HistogramaDesenat.resources
+E:\YUVATECH 2017\PROJECT\MARTHOMA\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.HomeSender.resources
+E:\YUVATECH 2017\PROJECT\MARTHOMA\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.Login.resources
+E:\YUVATECH 2017\PROJECT\MARTHOMA\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.MainForm.resources
+E:\YUVATECH 2017\PROJECT\MARTHOMA\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.Properties.Resources.resources
+E:\YUVATECH 2017\PROJECT\MARTHOMA\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.SenderAddOrginalImage.resources
+E:\YUVATECH 2017\PROJECT\MARTHOMA\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.SenderEmbeddingImage.resources
+E:\YUVATECH 2017\PROJECT\MARTHOMA\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.SenderImageDCT.resources
+E:\YUVATECH 2017\PROJECT\MARTHOMA\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.SenderImageSharez.resources
+E:\YUVATECH 2017\PROJECT\MARTHOMA\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.SenderNaturalImageSelection.resources
+E:\YUVATECH 2017\PROJECT\MARTHOMA\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.SenderOrgImageBinarization.resources
+E:\YUVATECH 2017\PROJECT\MARTHOMA\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.csproj.GenerateResource.Cache
+E:\YUVATECH 2017\PROJECT\MARTHOMA\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.csprojResolveAssemblyReference.cache
+E:\YUVATECH 2018\PROJECT\MARTHOMA\PROJECT\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.exe
+E:\YUVATECH 2018\PROJECT\MARTHOMA\PROJECT\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.pdb
+E:\YUVATECH 2018\PROJECT\MARTHOMA\PROJECT\Digital image\DigitalImageSharing\bin\Debug\DigitalImageSharing.exe
+E:\YUVATECH 2018\PROJECT\MARTHOMA\PROJECT\Digital image\DigitalImageSharing\bin\Debug\DigitalImageSharing.pdb
+E:\YUVATECH 2018\PROJECT\MARTHOMA\PROJECT\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.csprojResolveAssemblyReference.cache
+E:\YUVATECH 2018\PROJECT\MARTHOMA\PROJECT\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.Embedd.resources
+E:\YUVATECH 2018\PROJECT\MARTHOMA\PROJECT\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.ExtracterLoadImages.resources
+E:\YUVATECH 2018\PROJECT\MARTHOMA\PROJECT\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.ExtractorInverseDct.resources
+E:\YUVATECH 2018\PROJECT\MARTHOMA\PROJECT\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.ExtractorRetrieveShares.resources
+E:\YUVATECH 2018\PROJECT\MARTHOMA\PROJECT\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.ExtractorSecretImage.resources
+E:\YUVATECH 2018\PROJECT\MARTHOMA\PROJECT\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.Form1.resources
+E:\YUVATECH 2018\PROJECT\MARTHOMA\PROJECT\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.HistogramaDesenat.resources
+E:\YUVATECH 2018\PROJECT\MARTHOMA\PROJECT\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.HomeSender.resources
+E:\YUVATECH 2018\PROJECT\MARTHOMA\PROJECT\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.Login.resources
+E:\YUVATECH 2018\PROJECT\MARTHOMA\PROJECT\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.MainForm.resources
+E:\YUVATECH 2018\PROJECT\MARTHOMA\PROJECT\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.Properties.Resources.resources
+E:\YUVATECH 2018\PROJECT\MARTHOMA\PROJECT\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.SenderAddOrginalImage.resources
+E:\YUVATECH 2018\PROJECT\MARTHOMA\PROJECT\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.SenderEmbeddingImage.resources
+E:\YUVATECH 2018\PROJECT\MARTHOMA\PROJECT\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.SenderImageDCT.resources
+E:\YUVATECH 2018\PROJECT\MARTHOMA\PROJECT\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.SenderImageSharez.resources
+E:\YUVATECH 2018\PROJECT\MARTHOMA\PROJECT\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.SenderNaturalImageSelection.resources
+E:\YUVATECH 2018\PROJECT\MARTHOMA\PROJECT\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.SenderOrgImageBinarization.resources
+E:\YUVATECH 2018\PROJECT\MARTHOMA\PROJECT\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.csproj.GenerateResource.Cache
+E:\YUVATECH 2018\PROJECT\MARTHOMA\PROJECT\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.FirstForm.resources
+E:\YUVATECH 2018\PROJECT\MARTHOMA\PROJECT\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.HomeForm.resources
+E:\YUVATECH 2019\PROJECT\MOUNTZION\Final\Secret Sharing\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.exe
+E:\YUVATECH 2019\PROJECT\MOUNTZION\Final\Secret Sharing\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.pdb
+E:\YUVATECH 2019\PROJECT\MOUNTZION\Final\Secret Sharing\Digital image\DigitalImageSharing\bin\Debug\DigitalImageSharing.exe
+E:\YUVATECH 2019\PROJECT\MOUNTZION\Final\Secret Sharing\Digital image\DigitalImageSharing\bin\Debug\DigitalImageSharing.pdb
+E:\YUVATECH 2019\PROJECT\MOUNTZION\Final\Secret Sharing\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.csprojResolveAssemblyReference.cache
+E:\YUVATECH 2019\PROJECT\MOUNTZION\Final\Secret Sharing\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.Embedd.resources
+E:\YUVATECH 2019\PROJECT\MOUNTZION\Final\Secret Sharing\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.ExtracterLoadImages.resources
+E:\YUVATECH 2019\PROJECT\MOUNTZION\Final\Secret Sharing\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.ExtractorInverseDct.resources
+E:\YUVATECH 2019\PROJECT\MOUNTZION\Final\Secret Sharing\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.ExtractorRetrieveShares.resources
+E:\YUVATECH 2019\PROJECT\MOUNTZION\Final\Secret Sharing\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.ExtractorSecretImage.resources
+E:\YUVATECH 2019\PROJECT\MOUNTZION\Final\Secret Sharing\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.FirstForm.resources
+E:\YUVATECH 2019\PROJECT\MOUNTZION\Final\Secret Sharing\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.Form1.resources
+E:\YUVATECH 2019\PROJECT\MOUNTZION\Final\Secret Sharing\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.HistogramaDesenat.resources
+E:\YUVATECH 2019\PROJECT\MOUNTZION\Final\Secret Sharing\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.HomeForm.resources
+E:\YUVATECH 2019\PROJECT\MOUNTZION\Final\Secret Sharing\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.HomeSender.resources
+E:\YUVATECH 2019\PROJECT\MOUNTZION\Final\Secret Sharing\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.Login.resources
+E:\YUVATECH 2019\PROJECT\MOUNTZION\Final\Secret Sharing\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.MainForm.resources
+E:\YUVATECH 2019\PROJECT\MOUNTZION\Final\Secret Sharing\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.Properties.Resources.resources
+E:\YUVATECH 2019\PROJECT\MOUNTZION\Final\Secret Sharing\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.SenderAddOrginalImage.resources
+E:\YUVATECH 2019\PROJECT\MOUNTZION\Final\Secret Sharing\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.SenderEmbeddingImage.resources
+E:\YUVATECH 2019\PROJECT\MOUNTZION\Final\Secret Sharing\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.SenderImageDCT.resources
+E:\YUVATECH 2019\PROJECT\MOUNTZION\Final\Secret Sharing\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.SenderImageSharez.resources
+E:\YUVATECH 2019\PROJECT\MOUNTZION\Final\Secret Sharing\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.SenderNaturalImageSelection.resources
+E:\YUVATECH 2019\PROJECT\MOUNTZION\Final\Secret Sharing\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.SenderOrgImageBinarization.resources
+E:\YUVATECH 2019\PROJECT\MOUNTZION\Final\Secret Sharing\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.csproj.GenerateResource.Cache
+E:\YUVATECH 2019\PROJECT\TKM\FINAL\Secret Sharing\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.exe
+E:\YUVATECH 2019\PROJECT\TKM\FINAL\Secret Sharing\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.pdb
+E:\YUVATECH 2019\PROJECT\TKM\FINAL\Secret Sharing\Digital image\DigitalImageSharing\bin\Debug\DigitalImageSharing.exe
+E:\YUVATECH 2019\PROJECT\TKM\FINAL\Secret Sharing\Digital image\DigitalImageSharing\bin\Debug\DigitalImageSharing.pdb
+E:\YUVATECH 2019\PROJECT\TKM\FINAL\Secret Sharing\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.csprojResolveAssemblyReference.cache
+E:\YUVATECH 2019\PROJECT\TKM\FINAL\Secret Sharing\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.Embedd.resources
+E:\YUVATECH 2019\PROJECT\TKM\FINAL\Secret Sharing\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.ExtracterLoadImages.resources
+E:\YUVATECH 2019\PROJECT\TKM\FINAL\Secret Sharing\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.ExtractorInverseDct.resources
+E:\YUVATECH 2019\PROJECT\TKM\FINAL\Secret Sharing\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.ExtractorRetrieveShares.resources
+E:\YUVATECH 2019\PROJECT\TKM\FINAL\Secret Sharing\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.ExtractorSecretImage.resources
+E:\YUVATECH 2019\PROJECT\TKM\FINAL\Secret Sharing\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.FirstForm.resources
+E:\YUVATECH 2019\PROJECT\TKM\FINAL\Secret Sharing\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.Form1.resources
+E:\YUVATECH 2019\PROJECT\TKM\FINAL\Secret Sharing\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.HistogramaDesenat.resources
+E:\YUVATECH 2019\PROJECT\TKM\FINAL\Secret Sharing\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.HomeForm.resources
+E:\YUVATECH 2019\PROJECT\TKM\FINAL\Secret Sharing\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.HomeSender.resources
+E:\YUVATECH 2019\PROJECT\TKM\FINAL\Secret Sharing\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.Login.resources
+E:\YUVATECH 2019\PROJECT\TKM\FINAL\Secret Sharing\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.MainForm.resources
+E:\YUVATECH 2019\PROJECT\TKM\FINAL\Secret Sharing\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.Properties.Resources.resources
+E:\YUVATECH 2019\PROJECT\TKM\FINAL\Secret Sharing\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.SenderAddOrginalImage.resources
+E:\YUVATECH 2019\PROJECT\TKM\FINAL\Secret Sharing\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.SenderEmbeddingImage.resources
+E:\YUVATECH 2019\PROJECT\TKM\FINAL\Secret Sharing\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.SenderImageDCT.resources
+E:\YUVATECH 2019\PROJECT\TKM\FINAL\Secret Sharing\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.SenderImageSharez.resources
+E:\YUVATECH 2019\PROJECT\TKM\FINAL\Secret Sharing\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.SenderNaturalImageSelection.resources
+E:\YUVATECH 2019\PROJECT\TKM\FINAL\Secret Sharing\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.SenderOrgImageBinarization.resources
+E:\YUVATECH 2019\PROJECT\TKM\FINAL\Secret Sharing\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Secret Sharing\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.exe
+C:\Users\user\Desktop\Secret Sharing\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.pdb
+C:\Users\user\Desktop\Secret Sharing\Digital image\DigitalImageSharing\bin\Debug\DigitalImageSharing.exe
+C:\Users\user\Desktop\Secret Sharing\Digital image\DigitalImageSharing\bin\Debug\DigitalImageSharing.pdb
+C:\Users\user\Desktop\Secret Sharing\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Secret Sharing\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.Embedd.resources
+C:\Users\user\Desktop\Secret Sharing\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.ExtracterLoadImages.resources
+C:\Users\user\Desktop\Secret Sharing\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.ExtractorInverseDct.resources
+C:\Users\user\Desktop\Secret Sharing\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.ExtractorRetrieveShares.resources
+C:\Users\user\Desktop\Secret Sharing\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.ExtractorSecretImage.resources
+C:\Users\user\Desktop\Secret Sharing\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.FirstForm.resources
+C:\Users\user\Desktop\Secret Sharing\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.Form1.resources
+C:\Users\user\Desktop\Secret Sharing\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.HistogramaDesenat.resources
+C:\Users\user\Desktop\Secret Sharing\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.HomeForm.resources
+C:\Users\user\Desktop\Secret Sharing\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.HomeSender.resources
+C:\Users\user\Desktop\Secret Sharing\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.Login.resources
+C:\Users\user\Desktop\Secret Sharing\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.MainForm.resources
+C:\Users\user\Desktop\Secret Sharing\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.Properties.Resources.resources
+C:\Users\user\Desktop\Secret Sharing\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.SenderAddOrginalImage.resources
+C:\Users\user\Desktop\Secret Sharing\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.SenderEmbeddingImage.resources
+C:\Users\user\Desktop\Secret Sharing\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.SenderImageDCT.resources
+C:\Users\user\Desktop\Secret Sharing\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.SenderImageSharez.resources
+C:\Users\user\Desktop\Secret Sharing\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.SenderNaturalImageSelection.resources
+C:\Users\user\Desktop\Secret Sharing\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.SenderOrgImageBinarization.resources
+C:\Users\user\Desktop\Secret Sharing\Digital image\DigitalImageSharing\obj\x86\Debug\DigitalImageSharing.csproj.GenerateResource.Cache
