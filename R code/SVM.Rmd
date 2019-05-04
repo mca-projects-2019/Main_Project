@@ -1,0 +1,286 @@
+---
+
+---
+
+
+## Prediction of heart disease
+
+### Aim of analysis
+
+In the following document, I will be using SVM classification techinque to predict heart disease (angiographic disease status). From a set of 14 variables, the most important to predict heart failure are whether or not there is a reversable defect in Thalassemia followed by whether or not there is an occurrence of asymptomatic chest pain.
+
+
+## Dataset:
+
+
+The heart disease data are available at UCI The description of the database can be found [here](https://archive.ics.uci.edu/ml/machine-learning-databases/heart-disease/).
+
+
+
+let's read the dataset from the URL in R.
+
+```{r}
+require(ggplot2)
+require(pROC) #to plot the ROC curves
+
+heartdf <- read.csv("https://archive.ics.uci.edu/ml/machine-learning-databases/heart-disease/processed.cleveland.data",header=FALSE,sep=",",na.strings = '?')
+
+
+names(heartdf) <- c( "age", "sex", "cp", "trestbps", "chol","fbs", "restecg",
+                   "thalach","exang", "oldpeak","slope", "ca", "thal", "num")
+
+attach(heartdf)
+```
+
+The variable we want to predict is num with Value 0: < 50% diameter narrowing and Value 1: > 50% diameter narrowing. We assume that every value with 0 means heart is okay, and 1,2,3,4 means heart disease.
+
+From the possible values the variables can take, it is evident that the following need to be dummified because the distances in the values is random: cp,thal, restecg, slope
+
+Let's get a quick idea of data
+
+
+```{r}
+
+head(heartdf,3)
+
+dim(heartdf)# dimensions of the dataset
+
+```
+
+
+Let's explore the data and find how many had heart attacks, women or men have of a particular age?
+
+Let's first convert the dependent(class variable) $Y-num$ to binary variable.  
+
+
+```{r}
+#converting the num variable to binary class variable 
+
+heartdf$num<-ifelse(heartdf$num > 0,"Disease","noDisease")
+
+table(heartdf$num)
+
+#distribution of the target variable
+ggplot(heartdf,aes(x = num)) +
+  geom_bar(fill="black")
+
+
+
+#converting to factor variable
+heartdf$sex<-ifelse(heartdf$sex==0,"female","male")
+
+table(heartdf$sex)
+
+
+table(sex=heartdf$sex,disease=heartdf$num)
+
+ggplot(heartdf,aes(x=sex)) +
+  geom_bar(fill="purple") +
+  facet_wrap(~num)
+
+
+
+
+#heart disease and age
+#making a box plot to unserstand the statistical distribution
+
+by(heartdf$age,heartdf$num,summary)
+
+
+
+```
+
+So people who had heart disease for them the mean age is 56.6
+
+
+
+```{r}
+
+ggplot(heartdf,aes(x = num,y = age)) +
+  geom_boxplot()
+
+```
+
+
+### Let's do some correlation analysis between some variables-
+
+```{r}
+
+cor.test(age,chol) #very low correlation
+
+```
+We can see that age and cholestrol levlels have very low cor-relation.
+
+
+```{r}
+#confusion matrix of chest pain and heart disease
+table(cp,num)
+
+#confusuon matrix of exersice induced asthama and heart disease
+table(exang,num)
+
+
+```
+
+We can notice from the table that people who had heart diseases had severe level of chest pain.
+Also people who had heart diseases had exercise induced asthama.
+
+
+Correlation between age and maximum heart rate achieved-
+
+```{r}
+cor.test(age,thalach)
+
+
+ggplot(heartdf,aes(x = age,y = thalach )) + 
+  geom_point() + 
+  geom_smooth()
+
+```
+
+We can notice that as age increase maximum heart rate achived descreases, as the cor-relation is negetive.
+
+
+------------------------
+
+
+## predictive Modelling
+
+
+let's now predict who is likely to have a hear disease and who is not?
+
+
+Separating training and testing data
+
+
+```{r}
+library(caret)
+set.seed(20)
+
+
+inTrainRows <- createDataPartition(heartdf$num,p=0.7,list=FALSE)
+
+
+trainData <- heartdf[inTrainRows,]
+testData <-  heartdf[-inTrainRows,]
+nrow(trainData)/(nrow(testData)+nrow(trainData)) #checking whether really 70% -> OK
+
+```
+
+
+
+
+
+#Building a SVM classifier
+
+
+Now SVM classifier tends to generate hyperplanes which separate the classes with maximum margins i.e in simpler terms it aims to generate maximum marginal hyperplane.
+
+So amongst a set of competing hypothesis $h_i(x)$ we want to choose the one which maximizes the margin between both the classes on either side of the separating hyperplane, i.e  our main goal is to separate the classes on either sides of hyperplane with __maximum margin__ using the *support vectors*(which help us define the maximum margins).
+
+__*So a linear SVM classifier will generate a simple linear hyperplane for linearlly separable data*__.
+
+
+
+```{r}
+
+# for this to work add names to all levels (numbers not allowed)
+feature.names=names(heartdf)
+
+for (f in feature.names) {
+  if (class(heartdf[[f]])=="factor") {
+    levels <- unique(c(heartdf[[f]]))
+    heartdf[[f]] <- factor(heartdf[[f]],
+                   labels=make.names(levels))
+  }
+}
+
+#converting to factor variable with 2 levels
+heartdf$num<-as.factor(heartdf$num)
+levels(heartdf$num) <- c("Notdisease","Disease")
+
+table(heartdf$num)
+
+set.seed(10)
+
+inTrainRows <- createDataPartition(heartdf$num,p=0.7,list=FALSE)
+trainData2 <- heartdf[inTrainRows,]
+testData2 <-  heartdf[-inTrainRows,]
+
+
+#cross validation
+fitControl <- trainControl(method = "repeatedcv",
+                           number = 10,
+                           repeats = 10,
+                           ## Estimate class probabilities
+                           classProbs = TRUE,
+                           ## Evaluate performance using
+                           ## the following function
+                           summaryFunction = twoClassSummary)
+
+
+
+
+svmModel <- train(num ~ ., data = na.omit(trainData2),
+                 method = "svmRadial",
+                 trControl = fitControl,
+                 preProcess = c("center", "scale"),
+                 tuneLength = 8,
+                 metric = "ROC")
+
+svmModel
+
+#prediction on test data-class labels
+svmPrediction <- predict(svmModel, testData2)
+
+#probability of no heart disease-finding probabilities value
+svmPredictionprob <- predict(svmModel, testData2, type='prob')[2]
+
+#generating a confusion matrix
+ConfMatrixPrediction <- confusionMatrix(svmPrediction, na.omit(testData2)$num)
+
+ConfMatrixPrediction$table
+
+
+```
+
+__In the confusion matrix the diagonals represent the correctly classified examples, whereas the offdiagonals are incorrectly classifier examples.__
+
+
+### Let's find the ROC curver and the AUC value to better understand the accuracy and performance-
+
+__ROC curve is the plot of True positive rate vs the false positive rate__.
+
+```{r}
+#ROC and AUC value
+
+
+AUC<- roc(na.omit(testData2)$num,as.numeric(as.matrix((svmPredictionprob))))$auc
+
+Accuracy<- ConfMatrixPrediction$overall['Accuracy'] 
+
+svmPerformance<-cbind(AUC,Accuracy)
+
+svmPerformance
+
+
+
+```
+
+Hence we get an __AUC__ value of 0.911 and overall __prediction__ accuracy of 0.89.
+
+
+
+### Plotting the ROC curve-
+
+We will use the __roc()__ function to find the parameters which contain all the sensitivity(TPR) and specificity(FPR) and other predictive parameters for a classifier.
+
+```{r}
+
+auc_roc<-roc(na.omit(testData2)$num,as.numeric(as.matrix((svmPredictionprob))))
+
+plot(auc_roc)
+
+
+```
+
